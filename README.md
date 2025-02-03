@@ -31,7 +31,7 @@ On the side I'm exploring Machine Learning and other latest tech stuffs
 
 💬 Ask me about : Anything
 
-⚡ Fun fact : Most AI Bots are Female 
+⚡ Fun fact : OpenAI reportedly used 1,023 A100 GPUs to train ChatGPT, so it is possible that the training process was completed in as little as 34 days!!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sx.urxbh) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/MechanicUpbeat6634/) 
