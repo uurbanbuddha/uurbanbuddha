@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Hey there, I'm Saurabh Pandey
 
-I'm 19 years old. I'm from UP currently living in Chennai.
+I'm 19 years old. I'm from Patna currently living in Chennai.
 I'm a student at SRMIST pursuing Computer Science Engineering. I'm passionate about Web development and coding.
 On the side I'm exploring Machine Learning and other latest tech stuffs
 
