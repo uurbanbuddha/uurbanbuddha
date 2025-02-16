@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
-Hey there, I'm Mohammed Zaid
+Hey there, I'm Saurabh Pandey
 
 I'm 19 years old. I'm from UP currently living in Chennai.
 I'm a student at SRMIST pursuing Computer Science Engineering. I'm passionate about Web development and coding.
@@ -41,6 +41,14 @@ On the side I'm exploring Machine Learning and other latest tech stuffs
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=uurbanbuddha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=uurbanbuddha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=uurbanbuddha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uurbanbuddha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=uurbanbuddha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
